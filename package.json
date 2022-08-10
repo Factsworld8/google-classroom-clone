@@ -1,7 +1,7 @@
 {
   "name": "factsworld",
   "version": "1.0.0",
-  "node":"16.x",
+  "Node":"16.x",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
