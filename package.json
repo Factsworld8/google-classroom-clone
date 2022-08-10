@@ -1,7 +1,10 @@
 {
-  "name": "factsworld",
-  "version": "1.0.0",
-  "Node":"16.x",
+  "name": "google-classroom-clone",
+  "version": "0.1.0",
+  "engines": {
+    "node": "16.x"
+  },
+  
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -42,18 +45,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Factsworld8/google-classroom-clone.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Factsworld8/google-classroom-clone/issues"
-  },
-  "homepage": "https://github.com/Factsworld8/google-classroom-clone#readme"
+  }
 }
